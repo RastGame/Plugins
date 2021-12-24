@@ -5,7 +5,7 @@
             "name": "RastGame",
             "discord_id": "764247482125123626",
             "github_username": "RastGame",
-            "twitter_username": "ZackRauen"
+            "twitter_username": "RastGame"
         }],
         "version": "0.0.3",
         "description": "Patcher Test Description",
@@ -18,5 +18,5 @@
         {"title": "Improvements", "type": "improved", "items": ["Improvements to the base plugin"]},
         {"title": "On-going", "type": "progress", "items": ["More modals and popouts being added", "More classes and modules being added"]}
     ],
-    "main": "index.js"
+    "main": "rastgame.plugin.js"
 }
