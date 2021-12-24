@@ -1,6 +1,6 @@
 {
     "info": {
-        "name": "Example Plugin",
+        "name": "RastGame",
         "authors": [{
             "name": "RastGame",
             "discord_id": "764247482125123626",
@@ -9,7 +9,7 @@
         }],
         "version": "0.0.3",
         "description": "Patcher Test Description",
-        "github": "",
+        "github": "https://github.com/RastGame/Plugins.git",
         "github_raw": ""
     },
     "changelog": [
