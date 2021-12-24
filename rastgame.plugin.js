@@ -1,9 +1,9 @@
 //META{"name":"ExampleLibraryPlugin"}*//
 
 class ExampleLibraryPlugin {
-    getName() {return "ExampleLibraryPlugin";}
-    getDescription() {return "Does things with the library";}
-    getVersion() {return "0.0.1";}
+    getName() {return "RastGame";}
+    getDescription() {return "Тестовый плагин";}
+    getVersion() {return "0.0.3";}
     getAuthor() {return "アニメ#7414";}
 
     start() {
