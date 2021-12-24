@@ -7,7 +7,7 @@
             "github_username": "RastGame",
             "twitter_username": "RastGame"
         }],
-        "version": "0.0.3",
+        "version": "0.0.5",
         "description": "Patcher Test Description",
         "github": "https://github.com/RastGame/Plugins.git",
         "github_raw": ""
